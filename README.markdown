@@ -5,6 +5,8 @@ Show all your nerd friends your nerd skills with TF2 Items.
 ##Quick Example
 
 	<?php
+	include 'teapot.php';
+	
 	$teapot = new TeaPot('envex');
 
 	$items = $teapot->get_player_items();
