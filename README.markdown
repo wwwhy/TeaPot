@@ -1,5 +1,7 @@
 #TeaPot for Steam
 
+Show all your nerd friends your nerd skills with TF2 Items.
+
 ##Quick Example
 
 	<?php
