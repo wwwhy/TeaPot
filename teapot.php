@@ -66,7 +66,7 @@ class TeaPot{
 	*/
 	
 	//Change this to your API key
-	var $api_key = 'C3DE5AEB41DF8BD7410CAB0F0C746BD7';
+	var $api_key = '';
 	
 	var $format = 'json';
 	var $version = 'v0002';
